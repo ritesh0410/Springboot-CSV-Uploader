@@ -15,7 +15,7 @@ A simple Spring Boot REST API that allows uploading CSV files, storing their dat
 
 <br>
 **Tech Stack**
-<br>
+<br><br>
 Java 17+
 
 Spring Boot (REST API)
