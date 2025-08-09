@@ -5,7 +5,6 @@ A simple Spring Boot REST API that allows uploading CSV files, storing their dat
 
 #**Features**
 
-<br>
 📂 Upload CSV file and save data into MySQL database.
 
 📋 Retrieve all user details from the database.
